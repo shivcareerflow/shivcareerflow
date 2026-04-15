@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2 align="center"> 👨‍💻 WhoAmI</h2>
 
-<!--
-**shivcareerflow/shivcareerflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Shiv Awasthi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-Here are some ideas to get you started:
+<h3 align="center"><em>🚀 Generative AI Developer | Cyber Security Expert | Full Stack developer </em>
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ### <img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">   -->
+
+<p align="center">
+  <samp>
+  👋  - 🔭 I’m currently working in Careerflow
+ 💻🚀
+  </samp>
+  <br> <br>
+</p>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
